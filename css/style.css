@@ -5,16 +5,16 @@
 }
 
 body{
-    background-color:#6CEFBA;
+    background-color:#ef6c7d;
 }
 
 #loginhead{
     
     font-size: 10em;
-    color:whitesmoke;
+    color:rgb(8, 0, 0);
     font-family: cursive;
     font-weight: bold;
-    font-style:normal;
+    font-style:italic;
     text-align:justify;
     margin-top: 15%;
     margin-left: 15%;
